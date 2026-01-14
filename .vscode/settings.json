@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/aedd6084-3977-4ead-b673-7c36a1020c1c/resourceGroups/NC2X_Group/providers/Microsoft.Web/sites/nc2x-project-suraj",
+    "appService.deploySubpath": "."
+}
